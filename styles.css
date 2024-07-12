@@ -1,0 +1,27 @@
+* {
+    font-family: "Poppins", Verdana, sans-serif;
+    background-color: #E0E0E0;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h1, .subheading, .back{
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto 0 auto
+}
+
+.summary, .ingredients, .directions, .recipes {
+    padding-top: 50px;
+    margin: 0 50px 0 50px;
+}
+
+.back {
+    padding-top: 20px;
+}
