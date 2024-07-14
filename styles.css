@@ -25,3 +25,27 @@ img {
 .back {
     padding-top: 20px;
 }
+
+.recipe-section {
+    display: block;
+    width: 50vw;
+    height: 50vw;
+    margin: 0 auto;
+}
+
+.recipes {
+    margin: auto;
+    padding: 8px;
+    list-style-type: "\1F37D";
+    width: 40%;
+    font-size: 17px;
+}
+
+.recipes > li {
+    padding: 2px;
+    margin-bottom: 5px;
+}
+
+.seperator {
+    border: 1px solid black;
+}
